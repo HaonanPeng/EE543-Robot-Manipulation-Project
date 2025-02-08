@@ -1,2 +1,2 @@
 # EE543Project
- This is an opensource project that aim to give students hands on experience on implementing inverse kinematics on a 4DOF robot arm.
+ Project manual can be found at: [https://docs.google.com/document/d/1Ubh2IKTzpHcgaXKEUiXXJ3vKN5BsKgkgP82SdHQJfz0/edit?usp=sharing]https://docs.google.com/document/d/1Ubh2IKTzpHcgaXKEUiXXJ3vKN5BsKgkgP82SdHQJfz0/edit?usp=sharing
