@@ -1,4 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "Arduino code\\joint_controller\\joint_controller.ino"
-}
