@@ -57,7 +57,7 @@ class robot_controller():
         self.servo_pulse_max = 440 #+90 for mg996R, This is the 'maximum' pulse length count (out of 4096)
         self.servo_pulse_min = 70 #-90 for mg996R, This is the 'minimum' pulse length count (out of 4096)
 
-        #here defind the operating parameters for magnetic gripper
+        #here defind the operating parameters for gripper
         self.gripper_pulse_close = 440 #This is the pulse length count (out of 4096) of 100% duty cycle
         self.gripper_pulse_open = 70     #This is the pulse length count (out of 4096) of 0% duty cycle
 
